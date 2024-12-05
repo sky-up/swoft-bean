@@ -1,5 +1,5 @@
 {
-  "name": "swoft/bean",
+  "name": "swoft-fork/bean",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -11,14 +11,14 @@
     "swoft-bean"
   ],
   "description": "micro-service framework base on swoole",
-  "homepage": "https://github.com/swoft-cloud/swoft-bean",
+  "homepage": "https://github.com/sky-up/swoft-bean",
   "license": "Apache-2.0",
   "require": {
-    "php": ">7.1.0",
+    "php": ">8.0",
     "psr/container": "^1.0",
-    "swoft/annotation": "~2.0.0",
-    "swoft/event": "~2.0.0",
-    "swoft/stdlib": "~2.0.0"
+    "swoft-fork/annotation": "~2.0.0",
+    "swoft-fork/event": "~2.0.0",
+    "swoft-fork/stdlib": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
