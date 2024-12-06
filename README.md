@@ -16,7 +16,7 @@ Swoft Bean Component
 - composer command
 
 ```bash
-composer require swoft/bean
+composer require swoft-fork/bean
 ```
 
 ## Resources
