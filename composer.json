@@ -1,7 +1,7 @@
 {
   "name": "swoft-fork/bean",
   "type": "library",
-  "version": "v2.0.11",
+  "version": "v2.1.0",
   "keywords": [
     "php",
     "swoole",
@@ -16,9 +16,9 @@
   "require": {
     "php": ">8.0",
     "psr/container": "^1.0",
-    "swoft-fork/annotation": "~2.0.0",
-    "swoft-fork/event": "~2.0.0",
-    "swoft-fork/stdlib": "~2.0.0"
+    "swoft-fork/annotation": "~2.1.0",
+    "swoft-fork/event": "~2.1.0",
+    "swoft-fork/stdlib": "~2.1.0"
   },
   "autoload": {
     "psr-4": {

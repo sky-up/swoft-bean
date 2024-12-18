@@ -7,6 +7,10 @@
 
 Swoft Bean Component
 
+**notice:**
+
+This repository is forked from the Swoft repository on GitHub and has only been tested with Swoole version 4.8.13 and the corresponding PHP 8.2 environment. Please use with caution in your production environment, as active code maintenance is not guaranteed. For documentation, please refer to the original framework documentation.
+
 ## [中文说明](README.zh-CN.md)
 
 中文说明请查看 [README.zh-CN.md](README.zh-CN.md)
